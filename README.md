@@ -1,6 +1,6 @@
 # EyEPLUS
 
-## EyE PLUS delivers functionality for more than Eye.
+### EyE PLUS delivers functionality for more than Eye.
 
 EyE PLUS is a multi-purpose app with several uses beyond the eye. 
 
