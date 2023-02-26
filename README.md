@@ -1,17 +1,24 @@
-# eye_plus
+# EyEPLUS
 
-A new Flutter project.
+## EyE PLUS delivers functionality for more than Eye.
 
-## Getting Started
+EyE PLUS is a multi-purpose app with several uses beyond the eye. 
 
-This project is a starting point for a Flutter application.
+### Features of EyE PLUS: 
+ • Text Recognition from photos taken and those stored in a gallery.\
+ • Language input detection and translation.\
+ • Landmark recognition for both captured and gallery photographs.\
+ • Scan both Barcode/ QR codes and Image Classification for both captured & images in gallery.
 
-A few resources to get you started if this is your first Flutter project:
+### Features of SmartReader App:
+ • Scan both Barcode/ QR codes\
+ • Extract text from an image in Gallery or Captured    one.\
+ • Copy recognized text from the image to the clipboard.
+ 
+EyEPLUS is available at Huawei AppGallery.\
+📱App Link: https://appgallery.huawei.com/app/C107140537 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-#
+### Screenshots:
+<img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/1.png" width="250" height="520"/> <img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/2.png" width="250" height="520"/> <img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/3.png" width="250" height="520"/>
+<br>
+<img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/4.png" width="250" height="520"/> <img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/5.png" width="250" height="520"/> <img src="https://github.com/Dulaj-Kavinda/EyE_PLUS/blob/main/Screenshots/6.png" width="250" height="520"/>
