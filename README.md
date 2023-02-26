@@ -1,6 +1,7 @@
 # EyEPLUS
 
-EyE PLUS is a multi-purpose app with several uses beyond the eye. 
+EyE PLUS is a multi-purpose app with several uses beyond the eye.\
+Application is integrated with HMS Scan kit and ML kit using Flutter Cross-platform.
 
 ### Features of EyE PLUS: 
  • Text Recognition from photos taken and those stored in a gallery.\
